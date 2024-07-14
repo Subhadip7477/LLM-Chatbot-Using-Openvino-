@@ -4,7 +4,14 @@
 The OpenVINO LLM Chatbot is an advanced conversational AI application designed to leverage the power of large language models (LLMs) optimized for Intel® CPUs using the Intel® Distribution of OpenVINO™ toolkit. This chatbot aims to provide efficient and scalable natural language processing (NLP) capabilities on CPU-based systems, reducing dependency on expensive GPU infrastructure.
 
 
+## Components
 
+| Component | Description |
+|-----------|-------------|
+| LLM Integration and model for inference | Selecting TinyLlama model as a LLM model and also used for inference |
+| OpenVINO Optimization | Using Intel's OpenVINO toolkit for optimized model inference |
+| generating text in a causal language modeling manner | Uses distilgpt2 model for generating text in a causal language modeling manner|
+| User Interface | Implements a Gradio interface for easy interaction |
 
 ## Programs / Files
 
@@ -80,15 +87,12 @@ Complete Code in .py format
 2. Run all cells in order and add one extra cell for user interface.
 3. Ask questions any using the Gradio interface.
 
+# Future Improvements
 
-## Components
+- Can use more powerful language models
+- Support for generating answer with image
+- Support for generating conversation history
 
-| Component | Description |
-|-----------|-------------|
-| LLM Integration and model for inference | Selecting TinyLlama model as a LLM model and also used for inference |
-| OpenVINO Optimization | Using Intel's OpenVINO toolkit for optimized model inference |
-| generating text in a causal language modeling manner | Uses distilgpt2 model for generating text in a causal language modeling manner|
-| User Interface | Implements a Gradio interface for easy interaction |
 
 ## Team Members and their contributions
 
@@ -99,3 +103,5 @@ This project was developed by a team of 4 members as part of the Intel Unnati In
 - Sumita Das: User interface development and integration.
 
 We would like to thank  Intel Unnati program for their guidance and support.
+
+
