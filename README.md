@@ -15,7 +15,7 @@ If openvino is already install then no need to run it.
 
 
 ```bash
-  Prerequest.ipynb
+  Prerequisites.ipynb
 ```
 
 ### 2. Huggingface login
