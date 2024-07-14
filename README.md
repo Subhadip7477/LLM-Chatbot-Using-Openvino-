@@ -79,3 +79,23 @@ Complete Code in .py format
 1. Open the notebook in Google Colab.
 2. Run all cells in order and add one extra cell for user interface.
 3. Ask questions any using the Gradio interface.
+
+
+## Components
+
+| Component | Description |
+|-----------|-------------|
+| LLM Integration and model for inference | Selecting TinyLlama model as a LLM model and also used for inference |
+| OpenVINO Optimization | Using Intel's OpenVINO toolkit for optimized model inference |
+| generating text in a causal language modeling manner | Uses distilgpt2 model for generating text in a causal language modeling manner|
+| User Interface | Implements a Gradio interface for easy interaction |
+
+## Team Members and their contributions
+
+This project was developed by a team of 4 members as part of the Intel Unnati Industrial Training 2024:
+
+- Subhadip Ghosh & Jitu Pradhan: Project lead-(Subhadip Ghosh), LLM integration , model evaluation , OpenVINO optimization, instantiate model.
+- Akash Ghosh:  Architecture design and Documentation
+- Sumita Das: User interface development and integration.
+
+We would like to thank  Intel Unnati program for their guidance and support.
