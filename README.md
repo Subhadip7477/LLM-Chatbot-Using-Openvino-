@@ -76,6 +76,6 @@ Complete Code in .py format
 ```
 
 ## How to Run
-1.Open the notebook in Google Colab.
-2.Run all cells in order and add one cell for user interface as per your choice or you can also run py file.
-3.Ask questions any using the Gradio interface
+1. Open the notebook in Google Colab.
+2. Run all cells in order and add one cell for user interface as per your choice or you can also run py file.
+3. Ask questions any using the Gradio interface
