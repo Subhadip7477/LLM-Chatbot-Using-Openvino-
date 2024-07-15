@@ -98,8 +98,9 @@ Complete Code in .py format
 
 This project was developed by a team of 4 members as part of the Intel Unnati Industrial Training 2024:
 
-- Subhadip Ghosh & Jitu Pradhan: Project lead-(Subhadip Ghosh), LLM integration , model evaluation , OpenVINO optimization, instantiate model.
-- Akash Ghosh:  Architecture design and Documentation
+- Subhadip Ghosh (Project lead): LLM integration , model evaluation , OpenVINO optimization, instantiate model.
+- Jitu Pradhan:-  LLM integration , model evaluation , OpenVINO optimization, instantiate model. 
+- Akash Ghosh:  Architecture design and Documentation of complete project
 - Sumita Das: User interface development and integration.
 
 We would like to thank  Intel Unnati program for their guidance and support.
